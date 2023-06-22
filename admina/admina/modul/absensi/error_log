@@ -1,0 +1,20 @@
+[31-Mar-2023 02:49:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/mazdacibubur/app.stargard.co.id/admina/modul/absensi/absensi_action.php on line 18
+[31-Mar-2023 02:49:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/mazdacibubur/app.stargard.co.id/admina/modul/absensi/absensi_action.php on line 18
+[31-Mar-2023 09:54:37 Asia/Jakarta] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/mazdacibubur/app.stargard.co.id/admina/inc/Database.php on line 278
+[31-Mar-2023 09:54:37 Asia/Jakarta] PHP Warning:  implode(): Invalid arguments passed in /home/mazdacibubur/app.stargard.co.id/admina/inc/Database.php on line 279
+[31-Mar-2023 09:54:37 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/mazdacibubur/app.stargard.co.id/admina/inc/Database.php on line 283
+[31-Mar-2023 20:57:01 UTC] PHP Parse error:  syntax error, unexpected 'default' (T_DEFAULT), expecting end of file in /home/mazdacibubur/app.stargard.co.id/admina/modul/absensi/absensi_action.php on line 109
+[11-May-2023 08:27:20 Asia/Jakarta] PHP Warning:  imagecreatefrombmp(): Filename cannot be empty in /home/mazdacibubur/app.stargard.co.id/admina/inc/Database.php on line 775
+[11-May-2023 08:27:20 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/mazdacibubur/app.stargard.co.id/admina/inc/Database.php on line 778
+[11-May-2023 08:27:20 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/mazdacibubur/app.stargard.co.id/admina/inc/Database.php on line 786
+[11-May-2023 08:28:43 Asia/Jakarta] PHP Warning:  imagecreatefrombmp(): Filename cannot be empty in /home/mazdacibubur/app.stargard.co.id/admina/inc/Database.php on line 775
+[11-May-2023 08:28:43 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/mazdacibubur/app.stargard.co.id/admina/inc/Database.php on line 778
+[11-May-2023 08:28:43 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/mazdacibubur/app.stargard.co.id/admina/inc/Database.php on line 786
+[11-May-2023 08:29:13 Asia/Jakarta] PHP Warning:  imagecreatefrombmp(): Filename cannot be empty in /home/mazdacibubur/app.stargard.co.id/admina/inc/Database.php on line 775
+[11-May-2023 08:29:13 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/mazdacibubur/app.stargard.co.id/admina/inc/Database.php on line 778
+[11-May-2023 08:29:13 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/mazdacibubur/app.stargard.co.id/admina/inc/Database.php on line 786
+[13-May-2023 17:03:47 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/mazdacibubur/app.stargard.co.id/admina/modul/absensi/absensi_action.php on line 11
+[13-May-2023 17:03:47 Asia/Jakarta] PHP Notice:  Undefined index: tgl in /home/mazdacibubur/app.stargard.co.id/admina/modul/absensi/absensi_action.php on line 12
+[13-May-2023 17:03:47 Asia/Jakarta] PHP Notice:  Undefined index: jam in /home/mazdacibubur/app.stargard.co.id/admina/modul/absensi/absensi_action.php on line 13
+[13-May-2023 17:03:47 Asia/Jakarta] PHP Notice:  Undefined index: sts in /home/mazdacibubur/app.stargard.co.id/admina/modul/absensi/absensi_action.php on line 14
+[13-May-2023 17:03:47 Asia/Jakarta] PHP Notice:  Undefined index: ket in /home/mazdacibubur/app.stargard.co.id/admina/modul/absensi/absensi_action.php on line 15
